@@ -92,6 +92,15 @@ Example request body:
   "message": "Interested in the event"
 }
 ```
+---
+
+## 📸 Screenshots
+
+### 🔹 Registration Page
+![Registration](./screenshots/home.png)
+
+### 🔹 Thank You Page
+![Thank You](./screenshots/thankyou.png)
 
 ---
 
