@@ -97,10 +97,10 @@ Example request body:
 ## 📸 Screenshots
 
 ### 🔹 Registration Page
-![Registration](./screenshots/home.png)
+![Registration](./images/home.png)
 
 ### 🔹 Thank You Page
-![Thank You](./screenshots/thankyou.png)
+![Thank You](./images/thankyou.png)
 
 ---
 
